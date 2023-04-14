@@ -1,8 +1,8 @@
 # UnityPacManDemo
 
-This is a demo of a 3D pacman horror game.
+This is a demo of a 3D pacman horror game. It's cool.
 
-This game rulez #1
+This game rulez #1. You will liek it alot.
 
 
 You dont even know
