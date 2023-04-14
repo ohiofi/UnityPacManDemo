@@ -1,6 +1,6 @@
 # UnityPacManDemo
 
-This is a demo of a 3D pacman horror game. It's cool.
+This is a demo of a 3D pacman horror game. It's cool
 It has ramps and ghosts and coins.
 
 This game rulez #1. You will liek it alot.
